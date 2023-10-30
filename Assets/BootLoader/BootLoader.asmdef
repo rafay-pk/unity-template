@@ -1,0 +1,17 @@
+{
+    "name": "BootLoader",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cd421585d26f436438d8a8e2033a0d6a",
+        "GUID:f63c76afe2def6245a180d943d873115"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
